@@ -1,4 +1,5 @@
 # devops-aula02
 Will Smith
-Tony Ramos
+Seu Madruga 
 Carlos Alberto
+nicole kidmann
