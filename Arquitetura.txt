@@ -1,0 +1,3 @@
+A arquitetura de software de um sistema consiste na definição 
+dos componentes de software, suas propriedades externas, e
+seus relacionamentos com outros softwares.

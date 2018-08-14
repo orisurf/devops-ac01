@@ -1,0 +1,4 @@
+#Designer 
+Definição da estrutura e dos
+componentes do produto para atender as
+especificações.
