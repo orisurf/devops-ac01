@@ -1,0 +1,1 @@
+Operação consiste em um ambiente final, no qual será 100% identico ao disponibilizado ao usuario.
