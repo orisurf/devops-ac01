@@ -1,0 +1,3 @@
+A documentação de software ou documentação 
+do código fonte, é um texto escrito que acompanha o 
+software e geralmente explica como utilizá-lo.
