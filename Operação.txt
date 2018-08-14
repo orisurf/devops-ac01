@@ -1,1 +1,2 @@
 Operação consiste em um ambiente final, no qual será 100% identico ao disponibilizado ao usuario.
+De uma forma geral, pode ser aplicado a processos de tamanho variado, desde pequenos e simples, até aqueles que gerenciam todos os dados, desde custos, alocação de recursos, desenvolvimento, chegando até a fase de testes.
