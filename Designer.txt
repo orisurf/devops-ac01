@@ -2,3 +2,8 @@
 Definição da estrutura e dos
 componentes do produto para atender as
 especificações.
+Otimizando e aperfeiçoando produtos em um
+ritmo mais rápido do que o das empresas que
+usam processos tradicionais de
+desenvolvimento de software e gerenciamento
+de infraestrutura
