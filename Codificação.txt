@@ -3,3 +3,9 @@
  Codificação é a implementação dos
 componentes em uma ou várias linguagens de
 programação,com intuito de desenvolver certos softwares e realizar sua manuntenções.
+
+#Exemplos de linguagens de programação
+Python
+java
+Php
+C#
