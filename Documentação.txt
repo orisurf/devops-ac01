@@ -1,3 +1,4 @@
 A documentação de software ou documentação 
 do código fonte, é um texto escrito que acompanha o 
 software e geralmente explica como utilizá-lo.
+O termo pode significar coisas diferentes para pessoas de várias funções .
